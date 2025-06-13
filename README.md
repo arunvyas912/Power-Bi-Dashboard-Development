@@ -46,7 +46,7 @@ The goal of this project is to create an interactive dashboard using data visual
   •	Average Ship Days
 
 **2. Sales & Profit by Category/Sub-Category**
-   Bar charts
+   •	Bar charts
 
 **3. Region & State Performance**
 
@@ -55,7 +55,7 @@ The goal of this project is to create an interactive dashboard using data visual
    •	Highlight loss-making states
 
 **4. Trend Over Time**
-   Line charts showing monthly/yearly sales/profit
+   •	Line charts showing monthly/yearly sales/profit
 
 ## ▶️ How to Run
 
