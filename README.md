@@ -37,27 +37,27 @@ The goal of this project is to create an interactive dashboard using data visual
 
 **1. Overview KPIs**
 
-    •	Total Sales
+    •Total Sales
   
-    •	Total Profit
+    •Total Profit
   
-    •	No. of Orders
+    •No. of Orders
   
-    •	Average Ship Days
+    •Average Ship Days
 
 **2. Sales & Profit by Category/Sub-Category**
    
-    •	Bar charts
+    •Bar charts
 
 **3. Region & State Performance**
 
-    •	Geo map showing regional sales & profit
+    •Geo map showing regional sales & profit
   
-    •	Highlight loss-making states
+    •Highlight loss-making states
 
 **4. Trend Over Time**
    
-    •	Line charts showing monthly/yearly sales/profit
+    •Line charts showing monthly/yearly sales/profit
 
 ## ▶️ How to Run
 
